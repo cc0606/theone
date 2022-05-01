@@ -23,6 +23,8 @@
         "34 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign9.js, tag=东东9, enabled=false",
         "36 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign10.js, tag=东东10, enabled=false",
         "38 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign11.js, tag=东东11, enabled=false",
+        "40 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign8676.js, tag=18621528676, enabled=false",
+        "42 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1537.js, tag=13262971537, enabled=false",
  
        
     ]
