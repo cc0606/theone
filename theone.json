@@ -1,0 +1,11 @@
+
+{
+    "name":"QX-Task-Gallery",
+    "description":"唯一签到脚本合集",
+    "task":[
+        "0 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_1.js, tag=1#, enabled=false",
+
+        
+       
+    ]
+}
