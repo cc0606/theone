@@ -3,9 +3,23 @@
     "name":"QX-Task-Gallery",
     "description":"唯一签到脚本合集",
     "task":[
-        "0 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_1.js, tag=1#, enabled=false",
-
-        
+        "0 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=13295867082, enabled=false",
+        "2 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=13094792433, enabled=false",
+        "4 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=18658696822, enabled=false",
+        "6 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=18658637058, enabled=false",
+        "8 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=13221672023, enabled=false",
+        "10 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=15397470261, enabled=false",
+        "12 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=15824001334, enabled=false",
+        "14 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=18658610114, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=13106018790, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1.js, tag=东东1, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign2.js, tag=东东2, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign3.js, tag=东东3, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign4.js, tag=东东4, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign5.js, tag=东东5, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign6.js, tag=东东6, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7.js, tag=东东7, enabled=false",
+ 
        
     ]
 }
