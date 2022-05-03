@@ -3,15 +3,17 @@
     "name":"QX-Task-Gallery",
     "description":"唯一签到脚本合集",
     "task":[
-        "0 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=13295867082, enabled=false",
-        "2 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign2433.js, tag=13094792433, enabled=false",
-        "4 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign6822.js, tag=18658696822, enabled=false",
-        "6 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7058.js, tag=18658637058, enabled=false",
-        "8 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign2023.js, tag=13221672023, enabled=false",
-        "10 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign0261.js, tag=15397470261, enabled=false",
-        "12 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1334.js, tag=15824001334, enabled=false",
-        "14 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign0114.js, tag=18658610114, enabled=false",
-        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign8790.js, tag=13106018790, enabled=false",
+        "0 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7082.js, tag=W1, enabled=false",
+        "2 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign2433.js, tag=W2, enabled=false",
+        "4 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign6822.js, tag=W3, enabled=false",
+        "6 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign7058.js, tag=W4, enabled=false",
+        "8 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign2023.js, tag=W5, enabled=false",
+        "10 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign0261.js, tag=W6, enabled=false",
+        "12 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1334.js, tag=W7, enabled=false",
+        "14 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign0114.js, tag=W8, enabled=false",
+        "15 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign8790.js, tag=W9, enabled=false",
+        "16 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign8676.js, tag=W10, enabled=false",
+        "17 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1537.js, tag=W11, enabled=false",
         "18 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1.js, tag=东东1, enabled=false",
         "20 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign2.js, tag=东东2, enabled=false",
         "22 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign3.js, tag=东东3, enabled=false",
@@ -23,8 +25,7 @@
         "34 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign9.js, tag=东东9, enabled=false",
         "36 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign10.js, tag=东东10, enabled=false",
         "38 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign11.js, tag=东东11, enabled=false",
-        "40 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign8676.js, tag=18621528676, enabled=false",
-        "42 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign1537.js, tag=13262971537, enabled=false",
+
  
        
     ]
