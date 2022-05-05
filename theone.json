@@ -25,6 +25,9 @@
         "34 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign9.js, tag=东东9, enabled=false",
         "36 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign10.js, tag=东东10, enabled=false",
         "38 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/sign11.js, tag=东东11, enabled=false",
+        "39 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/cw01.js, tag=cw01, enabled=false",
+        "40 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/cw02.js, tag=cw02, enabled=false",
+        "41 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/cw03.js, tag=cw03, enabled=false",
 
  
        
