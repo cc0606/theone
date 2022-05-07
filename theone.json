@@ -29,6 +29,12 @@
         "40 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/cw02.js, tag=cw02, enabled=false",
         "41 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/cw03.js, tag=cw03, enabled=false",
         "42 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z1.js, tag=z1, enabled=false",
+        "43 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z2.js, tag=z2, enabled=false",
+        "44 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z3.js, tag=z3, enabled=false",
+        "45 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z4.js, tag=z4, enabled=false",
+        "46 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z5.js, tag=z5, enabled=false",
+        "47 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z6.js, tag=z6, enabled=false",
+        "48 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z7.js, tag=z7, enabled=false",
 
  
        
