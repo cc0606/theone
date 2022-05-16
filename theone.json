@@ -35,6 +35,7 @@
         "46 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z5.js, tag=z5, enabled=false",
         "47 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z6.js, tag=z6, enabled=false",
         "48 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z7.js, tag=z7, enabled=false",
+        "49 8,20 * * * https://raw.githubusercontent.com/cc0606/theone/main/z8.js, tag=z8, enabled=false",
 
  
        
